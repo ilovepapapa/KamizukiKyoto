@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>神月京都物语｜设置</title><link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="settings">
+<div class="app-shell"><aside id="sidebar"></aside><main class="main-stage">
+  <header class="topbar"><div class="player-info"><div class="player-name">⚙ 设置</div><div class="player-level">Study Preferences</div></div></header>
+  <section class="page-hero compact"><div class="page-badge">SETTINGS</div><h1>学习设置</h1><p>设置保存在当前浏览器。推荐先保持默认值，等学习习惯稳定后再调整。</p></section>
+
+  <section class="settings-panel">
+    <label class="setting-row"><span><strong>每日目标</strong><small>完成多少次“记住 / 再来一次”算今日完成</small></span><select id="daily-goal"><option value="5">5 次</option><option value="10">10 次</option><option value="15">15 次</option></select></label>
+    <label class="setting-row"><span><strong>日语语音速度</strong><small>建议 0.75 ～ 0.85</small></span><input id="speech-rate" type="range" min="0.6" max="1.1" step="0.05"><output id="speech-rate-value"></output></label>
+    <label class="setting-row"><span><strong>显示卡片后自动发音</strong><small>开启后每张新卡会自动读一次</small></span><input id="auto-play" type="checkbox"></label>
+    <div class="setting-actions">
+      <button type="button" class="settings-button" id="save-settings">保存设置</button>
+      <button type="button" class="settings-button secondary" id="reset-today">重置今日进度</button>
+      <button type="button" class="settings-button danger" id="reset-all">清空全部学习记录</button>
+    </div>
+  </section>
+</main></div>
+<script src="../js/shared.js"></script>
+<script>
+const current=Kamizuki.settings(),goal=document.getElementById("daily-goal"),rate=document.getElementById("speech-rate"),rateOut=document.getElementById("speech-rate-value"),auto=document.getElementById("auto-play");
+goal.value=String(current.dailyGoal);rate.value=String(current.speechRate);rateOut.textContent=Number(current.speechRate).toFixed(2);auto.checked=!!current.autoPlay;
+rate.addEventListener("input",()=>rateOut.textContent=Number(rate.value).toFixed(2));
+document.getElementById("save-settings").addEventListener("click",()=>{Kamizuki.saveSettings({dailyGoal:Number(goal.value),speechRate:Number(rate.value),autoPlay:auto.checked});Kamizuki.toast("设置已保存");});
+document.getElementById("reset-today").addEventListener("click",()=>{if(!confirm("确定重置今天的任务进度吗？"))return;localStorage.removeItem(Kamizuki.dailyKey());Kamizuki.toast("今日进度已重置");});
+document.getElementById("reset-all").addEventListener("click",()=>{if(!confirm("这会清空卡牌学习记录、统计和今日进度。确定继续吗？"))return;if(!confirm("再次确认：清空后无法恢复。"))return;localStorage.removeItem(Kamizuki.keys.cards);localStorage.removeItem(Kamizuki.keys.stats);for(let i=localStorage.length-1;i>=0;i--){const key=localStorage.key(i);if(key&&key.startsWith("kamizukiDailyProgress_"))localStorage.removeItem(key);}Kamizuki.toast("学习记录已清空");});
+</script>
+</body></html>

@@ -1,0 +1,1300 @@
+[
+  {
+    "id": "kana_001",
+    "type": "kana",
+    "group": "あ行",
+    "hiragana": "あ",
+    "katakana": "ア",
+    "roma": "a",
+    "word": "あさ",
+    "meaning": "早晨",
+    "origin": {
+      "note": "平假名「あ」由“安”的草书演变；片假名「ア」取自“阿”的一部分。"
+    },
+    "memory": {
+      "keyword": "あさ＝早晨",
+      "shape": "先观察「あ」的整体轮廓，再与声音 a 直接连接。",
+      "story": "在京都日常场景里，用「あさ」记住「あ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 a，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": true,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_002",
+    "type": "kana",
+    "group": "あ行",
+    "hiragana": "い",
+    "katakana": "イ",
+    "roma": "i",
+    "word": "いぬ",
+    "meaning": "狗",
+    "origin": {
+      "note": "平假名「い」由“以”的草书演变；片假名「イ」取自“伊”的一部分。"
+    },
+    "memory": {
+      "keyword": "いぬ＝狗",
+      "shape": "先观察「い」的整体轮廓，再与声音 i 直接连接。",
+      "story": "在京都日常场景里，用「いぬ」记住「い」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 i，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_003",
+    "type": "kana",
+    "group": "あ行",
+    "hiragana": "う",
+    "katakana": "ウ",
+    "roma": "u",
+    "word": "うみ",
+    "meaning": "海",
+    "origin": {
+      "note": "平假名「う」源自“宇”的草书；片假名「ウ」取自“宇”的一部分。"
+    },
+    "memory": {
+      "keyword": "うみ＝海",
+      "shape": "先观察「う」的整体轮廓，再与声音 u 直接连接。",
+      "story": "在京都日常场景里，用「うみ」记住「う」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 u，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_004",
+    "type": "kana",
+    "group": "あ行",
+    "hiragana": "え",
+    "katakana": "エ",
+    "roma": "e",
+    "word": "えき",
+    "meaning": "车站",
+    "origin": {
+      "note": "平假名「え」源自“衣”的草书；片假名「エ」取自“江”的一部分。"
+    },
+    "memory": {
+      "keyword": "えき＝车站",
+      "shape": "先观察「え」的整体轮廓，再与声音 e 直接连接。",
+      "story": "在京都日常场景里，用「えき」记住「え」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 e，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_005",
+    "type": "kana",
+    "group": "あ行",
+    "hiragana": "お",
+    "katakana": "オ",
+    "roma": "o",
+    "word": "おちゃ",
+    "meaning": "茶",
+    "origin": {
+      "note": "平假名「お」源自“於”的草书；片假名「オ」取自“於”的一部分。"
+    },
+    "memory": {
+      "keyword": "おちゃ＝茶",
+      "shape": "先观察「お」的整体轮廓，再与声音 o 直接连接。",
+      "story": "在京都日常场景里，用「おちゃ」记住「お」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 o，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_006",
+    "type": "kana",
+    "group": "か行",
+    "hiragana": "か",
+    "katakana": "カ",
+    "roma": "ka",
+    "word": "かさ",
+    "meaning": "伞",
+    "origin": {},
+    "memory": {
+      "keyword": "かさ＝伞",
+      "shape": "先观察「か」的整体轮廓，再与声音 ka 直接连接。",
+      "story": "在京都日常场景里，用「かさ」记住「か」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ka，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_007",
+    "type": "kana",
+    "group": "か行",
+    "hiragana": "き",
+    "katakana": "キ",
+    "roma": "ki",
+    "word": "き",
+    "meaning": "树",
+    "origin": {},
+    "memory": {
+      "keyword": "き＝树",
+      "shape": "先观察「き」的整体轮廓，再与声音 ki 直接连接。",
+      "story": "在京都日常场景里，用「き」记住「き」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ki，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_008",
+    "type": "kana",
+    "group": "か行",
+    "hiragana": "く",
+    "katakana": "ク",
+    "roma": "ku",
+    "word": "くつ",
+    "meaning": "鞋",
+    "origin": {},
+    "memory": {
+      "keyword": "くつ＝鞋",
+      "shape": "先观察「く」的整体轮廓，再与声音 ku 直接连接。",
+      "story": "在京都日常场景里，用「くつ」记住「く」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ku，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_009",
+    "type": "kana",
+    "group": "か行",
+    "hiragana": "け",
+    "katakana": "ケ",
+    "roma": "ke",
+    "word": "けさ",
+    "meaning": "今天早晨",
+    "origin": {},
+    "memory": {
+      "keyword": "けさ＝今天早晨",
+      "shape": "先观察「け」的整体轮廓，再与声音 ke 直接连接。",
+      "story": "在京都日常场景里，用「けさ」记住「け」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ke，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_010",
+    "type": "kana",
+    "group": "か行",
+    "hiragana": "こ",
+    "katakana": "コ",
+    "roma": "ko",
+    "word": "こえ",
+    "meaning": "声音",
+    "origin": {},
+    "memory": {
+      "keyword": "こえ＝声音",
+      "shape": "先观察「こ」的整体轮廓，再与声音 ko 直接连接。",
+      "story": "在京都日常场景里，用「こえ」记住「こ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ko，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_011",
+    "type": "kana",
+    "group": "さ行",
+    "hiragana": "さ",
+    "katakana": "サ",
+    "roma": "sa",
+    "word": "さかな",
+    "meaning": "鱼",
+    "origin": {},
+    "memory": {
+      "keyword": "さかな＝鱼",
+      "shape": "先观察「さ」的整体轮廓，再与声音 sa 直接连接。",
+      "story": "在京都日常场景里，用「さかな」记住「さ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 sa，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_012",
+    "type": "kana",
+    "group": "さ行",
+    "hiragana": "し",
+    "katakana": "シ",
+    "roma": "shi",
+    "word": "しお",
+    "meaning": "盐",
+    "origin": {},
+    "memory": {
+      "keyword": "しお＝盐",
+      "shape": "先观察「し」的整体轮廓，再与声音 shi 直接连接。",
+      "story": "在京都日常场景里，用「しお」记住「し」。"
+    },
+    "pronunciation": {
+      "tip": "不是 si，接近英语 she 的起始音。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_013",
+    "type": "kana",
+    "group": "さ行",
+    "hiragana": "す",
+    "katakana": "ス",
+    "roma": "su",
+    "word": "すし",
+    "meaning": "寿司",
+    "origin": {},
+    "memory": {
+      "keyword": "すし＝寿司",
+      "shape": "先观察「す」的整体轮廓，再与声音 su 直接连接。",
+      "story": "在京都日常场景里，用「すし」记住「す」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 su，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_014",
+    "type": "kana",
+    "group": "さ行",
+    "hiragana": "せ",
+    "katakana": "セ",
+    "roma": "se",
+    "word": "せかい",
+    "meaning": "世界",
+    "origin": {},
+    "memory": {
+      "keyword": "せかい＝世界",
+      "shape": "先观察「せ」的整体轮廓，再与声音 se 直接连接。",
+      "story": "在京都日常场景里，用「せかい」记住「せ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 se，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_015",
+    "type": "kana",
+    "group": "さ行",
+    "hiragana": "そ",
+    "katakana": "ソ",
+    "roma": "so",
+    "word": "そら",
+    "meaning": "天空",
+    "origin": {},
+    "memory": {
+      "keyword": "そら＝天空",
+      "shape": "先观察「そ」的整体轮廓，再与声音 so 直接连接。",
+      "story": "在京都日常场景里，用「そら」记住「そ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 so，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_016",
+    "type": "kana",
+    "group": "た行",
+    "hiragana": "た",
+    "katakana": "タ",
+    "roma": "ta",
+    "word": "たまご",
+    "meaning": "鸡蛋",
+    "origin": {},
+    "memory": {
+      "keyword": "たまご＝鸡蛋",
+      "shape": "先观察「た」的整体轮廓，再与声音 ta 直接连接。",
+      "story": "在京都日常场景里，用「たまご」记住「た」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ta，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_017",
+    "type": "kana",
+    "group": "た行",
+    "hiragana": "ち",
+    "katakana": "チ",
+    "roma": "chi",
+    "word": "ちず",
+    "meaning": "地图",
+    "origin": {},
+    "memory": {
+      "keyword": "ちず＝地图",
+      "shape": "先观察「ち」的整体轮廓，再与声音 chi 直接连接。",
+      "story": "在京都日常场景里，用「ちず」记住「ち」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 chi，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_018",
+    "type": "kana",
+    "group": "た行",
+    "hiragana": "つ",
+    "katakana": "ツ",
+    "roma": "tsu",
+    "word": "つき",
+    "meaning": "月亮",
+    "origin": {},
+    "memory": {
+      "keyword": "つき＝月亮",
+      "shape": "先观察「つ」的整体轮廓，再与声音 tsu 直接连接。",
+      "story": "在京都日常场景里，用「つき」记住「つ」。"
+    },
+    "pronunciation": {
+      "tip": "起始为 ts，注意不要读成 su。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_019",
+    "type": "kana",
+    "group": "た行",
+    "hiragana": "て",
+    "katakana": "テ",
+    "roma": "te",
+    "word": "て",
+    "meaning": "手",
+    "origin": {},
+    "memory": {
+      "keyword": "て＝手",
+      "shape": "先观察「て」的整体轮廓，再与声音 te 直接连接。",
+      "story": "在京都日常场景里，用「て」记住「て」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 te，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_020",
+    "type": "kana",
+    "group": "た行",
+    "hiragana": "と",
+    "katakana": "ト",
+    "roma": "to",
+    "word": "とり",
+    "meaning": "鸟",
+    "origin": {},
+    "memory": {
+      "keyword": "とり＝鸟",
+      "shape": "先观察「と」的整体轮廓，再与声音 to 直接连接。",
+      "story": "在京都日常场景里，用「とり」记住「と」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 to，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_021",
+    "type": "kana",
+    "group": "な行",
+    "hiragana": "な",
+    "katakana": "ナ",
+    "roma": "na",
+    "word": "なつ",
+    "meaning": "夏天",
+    "origin": {},
+    "memory": {
+      "keyword": "なつ＝夏天",
+      "shape": "先观察「な」的整体轮廓，再与声音 na 直接连接。",
+      "story": "在京都日常场景里，用「なつ」记住「な」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 na，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_022",
+    "type": "kana",
+    "group": "な行",
+    "hiragana": "に",
+    "katakana": "ニ",
+    "roma": "ni",
+    "word": "にく",
+    "meaning": "肉",
+    "origin": {},
+    "memory": {
+      "keyword": "にく＝肉",
+      "shape": "先观察「に」的整体轮廓，再与声音 ni 直接连接。",
+      "story": "在京都日常场景里，用「にく」记住「に」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ni，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_023",
+    "type": "kana",
+    "group": "な行",
+    "hiragana": "ぬ",
+    "katakana": "ヌ",
+    "roma": "nu",
+    "word": "ぬの",
+    "meaning": "布",
+    "origin": {},
+    "memory": {
+      "keyword": "ぬの＝布",
+      "shape": "先观察「ぬ」的整体轮廓，再与声音 nu 直接连接。",
+      "story": "在京都日常场景里，用「ぬの」记住「ぬ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 nu，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_024",
+    "type": "kana",
+    "group": "な行",
+    "hiragana": "ね",
+    "katakana": "ネ",
+    "roma": "ne",
+    "word": "ねこ",
+    "meaning": "猫",
+    "origin": {},
+    "memory": {
+      "keyword": "ねこ＝猫",
+      "shape": "先观察「ね」的整体轮廓，再与声音 ne 直接连接。",
+      "story": "在京都日常场景里，用「ねこ」记住「ね」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ne，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_025",
+    "type": "kana",
+    "group": "な行",
+    "hiragana": "の",
+    "katakana": "ノ",
+    "roma": "no",
+    "word": "のり",
+    "meaning": "海苔",
+    "origin": {},
+    "memory": {
+      "keyword": "のり＝海苔",
+      "shape": "先观察「の」的整体轮廓，再与声音 no 直接连接。",
+      "story": "在京都日常场景里，用「のり」记住「の」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 no，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_026",
+    "type": "kana",
+    "group": "は行",
+    "hiragana": "は",
+    "katakana": "ハ",
+    "roma": "ha",
+    "word": "はな",
+    "meaning": "花",
+    "origin": {},
+    "memory": {
+      "keyword": "はな＝花",
+      "shape": "先观察「は」的整体轮廓，再与声音 ha 直接连接。",
+      "story": "在京都日常场景里，用「はな」记住「は」。"
+    },
+    "pronunciation": {
+      "tip": "通常读 ha；作主题助词「は」时读 wa。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_027",
+    "type": "kana",
+    "group": "は行",
+    "hiragana": "ひ",
+    "katakana": "ヒ",
+    "roma": "hi",
+    "word": "ひと",
+    "meaning": "人",
+    "origin": {},
+    "memory": {
+      "keyword": "ひと＝人",
+      "shape": "先观察「ひ」的整体轮廓，再与声音 hi 直接连接。",
+      "story": "在京都日常场景里，用「ひと」记住「ひ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 hi，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_028",
+    "type": "kana",
+    "group": "は行",
+    "hiragana": "ふ",
+    "katakana": "フ",
+    "roma": "fu",
+    "word": "ふね",
+    "meaning": "船",
+    "origin": {},
+    "memory": {
+      "keyword": "ふね＝船",
+      "shape": "先观察「ふ」的整体轮廓，再与声音 fu 直接连接。",
+      "story": "在京都日常场景里，用「ふね」记住「ふ」。"
+    },
+    "pronunciation": {
+      "tip": "介于 hu 与 fu 之间，双唇轻吹气。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_029",
+    "type": "kana",
+    "group": "は行",
+    "hiragana": "へ",
+    "katakana": "ヘ",
+    "roma": "he",
+    "word": "へや",
+    "meaning": "房间",
+    "origin": {},
+    "memory": {
+      "keyword": "へや＝房间",
+      "shape": "先观察「へ」的整体轮廓，再与声音 he 直接连接。",
+      "story": "在京都日常场景里，用「へや」记住「へ」。"
+    },
+    "pronunciation": {
+      "tip": "通常读 he；作方向助词「へ」时读 e。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_030",
+    "type": "kana",
+    "group": "は行",
+    "hiragana": "ほ",
+    "katakana": "ホ",
+    "roma": "ho",
+    "word": "ほし",
+    "meaning": "星星",
+    "origin": {},
+    "memory": {
+      "keyword": "ほし＝星星",
+      "shape": "先观察「ほ」的整体轮廓，再与声音 ho 直接连接。",
+      "story": "在京都日常场景里，用「ほし」记住「ほ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ho，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_031",
+    "type": "kana",
+    "group": "ま行",
+    "hiragana": "ま",
+    "katakana": "マ",
+    "roma": "ma",
+    "word": "まど",
+    "meaning": "窗户",
+    "origin": {},
+    "memory": {
+      "keyword": "まど＝窗户",
+      "shape": "先观察「ま」的整体轮廓，再与声音 ma 直接连接。",
+      "story": "在京都日常场景里，用「まど」记住「ま」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ma，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_032",
+    "type": "kana",
+    "group": "ま行",
+    "hiragana": "み",
+    "katakana": "ミ",
+    "roma": "mi",
+    "word": "みず",
+    "meaning": "水",
+    "origin": {},
+    "memory": {
+      "keyword": "みず＝水",
+      "shape": "先观察「み」的整体轮廓，再与声音 mi 直接连接。",
+      "story": "在京都日常场景里，用「みず」记住「み」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 mi，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_033",
+    "type": "kana",
+    "group": "ま行",
+    "hiragana": "む",
+    "katakana": "ム",
+    "roma": "mu",
+    "word": "むし",
+    "meaning": "虫",
+    "origin": {},
+    "memory": {
+      "keyword": "むし＝虫",
+      "shape": "先观察「む」的整体轮廓，再与声音 mu 直接连接。",
+      "story": "在京都日常场景里，用「むし」记住「む」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 mu，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_034",
+    "type": "kana",
+    "group": "ま行",
+    "hiragana": "め",
+    "katakana": "メ",
+    "roma": "me",
+    "word": "め",
+    "meaning": "眼睛",
+    "origin": {},
+    "memory": {
+      "keyword": "め＝眼睛",
+      "shape": "先观察「め」的整体轮廓，再与声音 me 直接连接。",
+      "story": "在京都日常场景里，用「め」记住「め」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 me，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_035",
+    "type": "kana",
+    "group": "ま行",
+    "hiragana": "も",
+    "katakana": "モ",
+    "roma": "mo",
+    "word": "もり",
+    "meaning": "森林",
+    "origin": {},
+    "memory": {
+      "keyword": "もり＝森林",
+      "shape": "先观察「も」的整体轮廓，再与声音 mo 直接连接。",
+      "story": "在京都日常场景里，用「もり」记住「も」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 mo，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_036",
+    "type": "kana",
+    "group": "や行",
+    "hiragana": "や",
+    "katakana": "ヤ",
+    "roma": "ya",
+    "word": "やま",
+    "meaning": "山",
+    "origin": {},
+    "memory": {
+      "keyword": "やま＝山",
+      "shape": "先观察「や」的整体轮廓，再与声音 ya 直接连接。",
+      "story": "在京都日常场景里，用「やま」记住「や」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 ya，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_037",
+    "type": "kana",
+    "group": "や行",
+    "hiragana": "ゆ",
+    "katakana": "ユ",
+    "roma": "yu",
+    "word": "ゆき",
+    "meaning": "雪",
+    "origin": {},
+    "memory": {
+      "keyword": "ゆき＝雪",
+      "shape": "先观察「ゆ」的整体轮廓，再与声音 yu 直接连接。",
+      "story": "在京都日常场景里，用「ゆき」记住「ゆ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 yu，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_038",
+    "type": "kana",
+    "group": "や行",
+    "hiragana": "よ",
+    "katakana": "ヨ",
+    "roma": "yo",
+    "word": "よる",
+    "meaning": "夜晚",
+    "origin": {},
+    "memory": {
+      "keyword": "よる＝夜晚",
+      "shape": "先观察「よ」的整体轮廓，再与声音 yo 直接连接。",
+      "story": "在京都日常场景里，用「よる」记住「よ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 yo，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_039",
+    "type": "kana",
+    "group": "ら行",
+    "hiragana": "ら",
+    "katakana": "ラ",
+    "roma": "ra",
+    "word": "らいねん",
+    "meaning": "明年",
+    "origin": {},
+    "memory": {
+      "keyword": "らいねん＝明年",
+      "shape": "先观察「ら」的整体轮廓，再与声音 ra 直接连接。",
+      "story": "在京都日常场景里，用「らいねん」记住「ら」。"
+    },
+    "pronunciation": {
+      "tip": "日语 r 是轻弹音，介于中文 l/r 之间。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_040",
+    "type": "kana",
+    "group": "ら行",
+    "hiragana": "り",
+    "katakana": "リ",
+    "roma": "ri",
+    "word": "りんご",
+    "meaning": "苹果",
+    "origin": {},
+    "memory": {
+      "keyword": "りんご＝苹果",
+      "shape": "先观察「り」的整体轮廓，再与声音 ri 直接连接。",
+      "story": "在京都日常场景里，用「りんご」记住「り」。"
+    },
+    "pronunciation": {
+      "tip": "轻弹 r 后接 i。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_041",
+    "type": "kana",
+    "group": "ら行",
+    "hiragana": "る",
+    "katakana": "ル",
+    "roma": "ru",
+    "word": "るす",
+    "meaning": "不在家",
+    "origin": {},
+    "memory": {
+      "keyword": "るす＝不在家",
+      "shape": "先观察「る」的整体轮廓，再与声音 ru 直接连接。",
+      "story": "在京都日常场景里，用「るす」记住「る」。"
+    },
+    "pronunciation": {
+      "tip": "轻弹 r 后接 u。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_042",
+    "type": "kana",
+    "group": "ら行",
+    "hiragana": "れ",
+    "katakana": "レ",
+    "roma": "re",
+    "word": "れきし",
+    "meaning": "历史",
+    "origin": {},
+    "memory": {
+      "keyword": "れきし＝历史",
+      "shape": "先观察「れ」的整体轮廓，再与声音 re 直接连接。",
+      "story": "在京都日常场景里，用「れきし」记住「れ」。"
+    },
+    "pronunciation": {
+      "tip": "轻弹 r 后接 e。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_043",
+    "type": "kana",
+    "group": "ら行",
+    "hiragana": "ろ",
+    "katakana": "ロ",
+    "roma": "ro",
+    "word": "ろく",
+    "meaning": "六",
+    "origin": {},
+    "memory": {
+      "keyword": "ろく＝六",
+      "shape": "先观察「ろ」的整体轮廓，再与声音 ro 直接连接。",
+      "story": "在京都日常场景里，用「ろく」记住「ろ」。"
+    },
+    "pronunciation": {
+      "tip": "轻弹 r 后接 o。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_044",
+    "type": "kana",
+    "group": "わ行",
+    "hiragana": "わ",
+    "katakana": "ワ",
+    "roma": "wa",
+    "word": "わたし",
+    "meaning": "我",
+    "origin": {},
+    "memory": {
+      "keyword": "わたし＝我",
+      "shape": "先观察「わ」的整体轮廓，再与声音 wa 直接连接。",
+      "story": "在京都日常场景里，用「わたし」记住「わ」。"
+    },
+    "pronunciation": {
+      "tip": "发音为 wa，保持短促、清楚。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_045",
+    "type": "kana",
+    "group": "わ行",
+    "hiragana": "を",
+    "katakana": "ヲ",
+    "roma": "o",
+    "word": "みずをください",
+    "meaning": "请给我水",
+    "origin": {},
+    "memory": {
+      "keyword": "を 的例句记忆",
+      "shape": "先观察「を」的整体轮廓，再与声音 o 直接连接。",
+      "story": "在京都日常场景里，用「みずをください」记住「を」。"
+    },
+    "pronunciation": {
+      "tip": "现代标准语中助词「を」通常读 /o/。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  },
+  {
+    "id": "kana_046",
+    "type": "kana",
+    "group": "ん",
+    "hiragana": "ん",
+    "katakana": "ン",
+    "roma": "n",
+    "word": "ほん",
+    "meaning": "书",
+    "origin": {},
+    "memory": {
+      "keyword": "ほん＝书",
+      "shape": "先观察「ん」的整体轮廓，再与声音 n 直接连接。",
+      "story": "在京都日常场景里，用「ほん」记住「ん」。"
+    },
+    "pronunciation": {
+      "tip": "鼻音会随后续音变化；单独练习时先掌握轻鼻音。"
+    },
+    "level": 1,
+    "exp": 0,
+    "unlocked": false,
+    "study": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "mastery": 0
+    }
+  }
+]

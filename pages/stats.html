@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>神月京都物语｜学习统计</title><link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="stats">
+<div class="app-shell"><aside id="sidebar"></aside><main class="main-stage">
+  <header class="topbar"><div class="player-info"><div class="player-name">📊 学习统计</div><div class="player-level">Local Study Progress</div></div></header>
+  <section class="page-hero compact"><div class="page-badge">PROGRESS</div><h1>学习统计</h1><p>数据保存在当前浏览器的 localStorage 中。GitHub Pages 不会自动把学习记录同步到另一台设备。</p></section>
+  <section class="stats-grid" id="stats-grid"></section>
+  <section class="stats-panel"><h2>近 7 天学习</h2><div class="week-strip" id="week-strip"></div></section>
+</main></div>
+<script src="../js/shared.js"></script>
+<script>
+const s=Kamizuki.getStats();
+let cards=[]; try{cards=JSON.parse(localStorage.getItem(Kamizuki.keys.cards)||"[]");}catch{}
+const unlocked=Array.isArray(cards)?cards.filter(x=>x.unlocked).length:0;
+const learned=Array.isArray(cards)?cards.filter(x=>Number(x.study?.seen||0)>0).length:0;
+const den=Number(s.correct||0)+Number(s.wrong||0);
+const acc=den?Math.round(Number(s.correct||0)/den*100):0;
+const lacc=Number(s.listeningTotal||0)?Math.round(Number(s.listeningCorrect||0)/Number(s.listeningTotal||0)*100):0;
+const activeDays=Object.keys(s.activeDays||{}).length;
+const metrics=[["总经验",Number(s.exp||0),"EXP"],["学习动作",Number(s.studyActions||0),"次"],["基础正确率",acc,"%"],["听音正确率",lacc,"%"],["已解锁",unlocked||1,"/ 46"],["有学习记录",learned,"/ 46"],["学习天数",activeDays,"天"],["听音题量",Number(s.listeningTotal||0),"题"]];
+document.getElementById("stats-grid").innerHTML=metrics.map(([l,v,u])=>`<article class="stat-card"><div class="stat-label">${l}</div><div class="stat-value">${v}<span>${u}</span></div></article>`).join("");
+const days=[]; for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const key=Kamizuki.localDateKey(d);days.push({label:["日","一","二","三","四","五","六"][d.getDay()],active:!!s.activeDays?.[key]});}
+document.getElementById("week-strip").innerHTML=days.map(d=>`<div class="day-dot ${d.active?"active":""}"><span>周${d.label}</span><b>${d.active?"✓":"·"}</b></div>`).join("");
+</script>
+</body></html>

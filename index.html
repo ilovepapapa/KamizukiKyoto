@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#2d241f">
+  <title>神月京都物语</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+<div class="app-shell">
+  <aside id="sidebar"></aside>
+
+  <main class="main-stage">
+    <header class="topbar">
+      <div class="player-info">
+        <div class="player-name">🌸 慕容楚歌</div>
+        <div class="player-level">日语学习者 · Kyoto Study Log</div>
+      </div>
+      <div class="top-exp">
+        <div id="top-exp-text">总经验 0 · 下一等级 0 / 100</div>
+        <div class="exp-bar"><div class="exp-value" id="top-exp-value"></div></div>
+      </div>
+    </header>
+
+    <section class="study-header">
+      <h1>五十音学习</h1>
+      <div class="study-progress" id="study-progress">0 / 5</div>
+    </section>
+
+    <section class="study-layout">
+      <section class="ayano-panel">
+        <div class="character-card">
+          <div class="character-avatar-wrap">
+            <img src="images/ayano.png" onerror="this.onerror=null;this.src='images/ayano.svg'" alt="绫乃" class="character-avatar">
+          </div>
+          <div class="character-name">绫乃</div>
+          <div class="character-jp">綾乃</div>
+          <div class="character-note">日语学习向导</div>
+        </div>
+
+        <div class="dialogue-box">
+          <div class="dialogue-speaker">绫乃：</div>
+          <div class="dialogue-text" id="ayano-jp-text">今日は「あ」から始めましょう！</div>
+          <div class="dialogue-text-cn" id="ayano-cn-text">今天从「あ」开始。不要着急，我们一张一张来。</div>
+        </div>
+      </section>
+
+      <section class="lesson-column">
+        <div class="card-stage">
+          <button type="button" class="nav-button" id="previous-button" onclick="previousCard()" disabled>←</button>
+          <div id="lesson-area">
+            <section class="start-panel">
+              <div class="start-mark">月</div>
+              <h2>今日学习</h2>
+              <p>五十音 · 基础学习闭环</p>
+              <div class="start-actions">
+                <button type="button" class="start-button" onclick="startLesson()">开始学习</button>
+                <button type="button" class="start-button secondary" onclick="startListeningQuiz()">🎧 听音辨字</button>
+              </div>
+            </section>
+          </div>
+          <button type="button" class="nav-button" id="next-button" onclick="nextCard()" disabled>→</button>
+        </div>
+        <div class="footer-quote">小さな一歩が、大きな景色につながる。</div>
+      </section>
+
+      <aside class="study-note">
+        <div class="note-section"><h2>🌸 字源提示</h2><p id="tip-origin">开始学习后，这里显示当前假名的字源信息。</p></div>
+        <div class="note-divider"></div>
+        <div class="note-section"><h2>💡 记忆方法</h2><p id="tip-keyword"><strong>关键词：</strong>等待开始学习。</p><p id="tip-shape"><strong>字形：</strong>观察假名整体轮廓。</p></div>
+        <div class="note-divider"></div>
+        <div class="note-section"><h2>🔊 发音提示</h2><p id="tip-pronunciation">听一次，模仿一次，再闭眼回忆一次。</p></div>
+        <div class="note-divider"></div>
+        <div class="note-section"><h2>🎯 今日例词</h2><p id="tip-example">学习开始后，这里显示当前假名的例词。</p></div>
+      </aside>
+    </section>
+  </main>
+</div>
+<script src="js/shared.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
